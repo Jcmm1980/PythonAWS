@@ -1,0 +1,12 @@
+cadena = 'hola mundo'
+print (cadena.upper())
+print (cadena.lower())
+print(cadena.capitalize())
+print(cadena.title())
+print(cadena.count('o'))
+print(cadena.find('mun'))
+print(cadena.split())
+print('hola,mundo'.split(','))
+print(','.join(cadena))
+print('    Hola Mundo '.strip())
+print('H0la mund0'.replace('0', 'o'))
